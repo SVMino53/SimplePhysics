@@ -5,5 +5,5 @@ This is a very simple 2D physics simulator I am developing in my free time. I am
 
 This project is in a very early state and there is currently no application to test. Once I have created an executable file, this document will be updated.
 
-***Status:*** *WIP*
+***Status:*** *WIP*  
 ***Version:*** *0.0*
